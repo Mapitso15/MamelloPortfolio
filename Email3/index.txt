@@ -1,0 +1,170 @@
+<!DOCTYPE html >
+    <html>
+        <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+            <title>Fro Pace</title>
+           
+<style type="text/css">
+    body {margin: 10px 0; padding: 0 10px; background: #ffffff; font-size: 13px;}
+    table {border-collapse: collapse;}
+    td {font-family: arial, sans-serif; color: #333333;}
+</style>
+<style type="text/css">
+    @media only screen and (max-width: 480px) {
+        body,table,td,p,a,li,blockquote {
+        -webkit-text-size-adjust:none;
+        }
+        table {width: 100%;}
+        .responsive-image img {
+        height: auto;
+        max-width: 100%;
+        width: 100%;
+        }
+    }
+</style>
+
+        </head>
+        <body>
+		
+	
+            <table border="0" cellpadding="0" cellspacing="0" align="center" width="640">
+   <tr>
+    <td bgcolor="#fffff" style="font-size: 0; line-height: 0; padding: 0 10px 0 10px;" height="140" width="640" align="center" class="responsive-image">
+        <img src="images/head5.png" alt="" />
+    </td>
+</tr>
+<tr><td style="font-size: 0; line-height: 0;" height="1" bgcolor="#F9F9F9">&nbsp;</td></tr>
+<tr><td style="font-size: 0; line-height: 0;" height="30">&nbsp;</td></tr>
+
+	<tr>
+    <td style="padding: 10px 10px 20px 10px;">
+        <div style="font-weight: bold; color:#000000; font-size: 25px;text-align:center;">Greetings!</div>
+        <br />
+        <div style="text-align:center; font-color:#00000;font-size:17px;">
+            This month We focus on interiors, to give you ideas on revamping your home.<br/>
+            We've had a busy month and we are thankful to all our clients that trusted us with transforming their homes.<br/>
+    We hope this months newsletter will inspire you.
+        </div>
+    </td>
+</tr>
+<tr><td style="font-size: 0; line-height: 0;" height="1" bgcolor="#F9F9F9">&nbsp;</td></tr>
+<tr><td style="font-size: 0; line-height: 0;" height="30">&nbsp;</td></tr>
+<tr>
+    <td>
+        <table border="0" cellpadding="0" cellspacing="0" align="left" width="49%">
+            <tr>
+                <td style="padding: 0 10px;" align="left" class="responsive-image">
+                    <img src="images/pic1.jpg" width="240" alt="" />
+                </td>
+            </tr>
+            <tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+            <tr>
+                <td>
+                    <div style="font-weight: bold; font-size: 16px;">&nbsp;&nbsp;Modern Apartment</div><br/>
+                    <div>&nbsp;
+                        We revamped an open plan apartment <br/>&nbsp;&nbsp;for a young creative. In order to ensure<br/> 
+                        &nbsp;&nbsp;the success of the project..&nbsp;<a href="#"  <br/>Read More</a>
+                    </div>
+                    
+                </td>
+            </tr>
+            <tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0" align="right" width="49%">
+            <tr>
+                <td style="padding: 0 10px;" align="left" class="responsive-image">
+                    <img src="images/pic4.jpg" width="240" alt="" />
+                </td>
+            </tr>
+            <tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+            <tr>
+                <td>
+                    
+                    <div style="font-weight: bold; font-size: 16px;">&nbsp;&nbsp;&nbsp;Modern Kitchen</div><br/>
+                    <div style="display:block;">
+                        &nbsp;&nbsp;&nbsp;Our client, a young executive requested <br/>&nbsp;&nbsp;&nbsp;us to design his kitchen to fit his 
+                       <br/>&nbsp;&nbsp;&nbsp;personality. The kitchen is ..&nbsp;<a href="#"  <br/>Read More</a>
+                    </div>
+                </td>
+            </tr>
+            <tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+        </table>
+    </td>
+</tr>
+<tr><td style="font-size: 0; line-height: 0;" height="1" bgcolor="#F9F9F9">&nbsp;</td></tr>
+<tr><td style="font-size: 0; line-height: 0;" height="30">&nbsp;</td></tr>
+<tr>
+    <td>
+        <table border="0" cellpadding="0" cellspacing="0" align="left" width="49%">
+            <tr>
+                <td style="padding: 0 10px;" align="left" class="responsive-image">
+                    <img src="images/pic3.jpg" width="240" alt="" />
+                </td>
+            </tr>
+            <tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+            <tr>
+                <td>
+                    <div style="font-weight: bold; font-size: 16px;">&nbsp;&nbsp;Stairway Design</div><br/>
+                    <div>&nbsp;
+                        What goes into stairway design?<br/>&nbsp;&nbsp;It has to look good but 
+                        safety is an <br/> &nbsp;&nbsp;important element when..&nbsp;<a href="#"  <br/>Read More</a>
+                    </div>
+                </td>
+            </tr>
+            <tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0" align="right" width="49%">
+            <tr>
+                <td style="padding: 0 10px;" align="left" class="responsive-image">
+                    <img src="images/pic2.jpg" width="240" alt="" />
+                </td>
+            </tr>
+            <tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+            <tr>
+               <td>
+                    
+                    <div style="font-weight: bold; font-size: 16px;">&nbsp;&nbsp;&nbsp;Open Plan Design</div><br/>
+                    <div style="display:block;">
+                        &nbsp;&nbsp;&nbsp;Looking for open plan design inspiration?  <br/>&nbsp;&nbsp;&nbsp;We have complied a list of previous
+                       <br/>&nbsp;&nbsp;&nbsp;projects to inspire  ..&nbsp;<a href="#"  <br/>Read More</a>
+                    </div>
+                </td>
+            </tr>
+            <tr><td style="font-size: 0; line-height: 0;" height="20">&nbsp;</td></tr>
+        </table>
+    </td>
+</tr>
+
+
+
+ <tr>
+  <td bgcolor="#040404" style="padding: 15px 15px 15px 15px;">
+ <table border="0" cellpadding="0" cellspacing="0" width="100%">
+ <tr>
+  <td style="color: #ffffff; font-family: Arial, sans-serif; font-size: 14px;">
+ &reg; Fro Pace Property Developers<br/>
+ <a href="#" style="color: #ffffff;"><font color="#ffffff">Unsubscribe</font></a> to this newsletter instantly
+</td>
+  <td align="right">
+ <table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+   <td>
+    <a href="#">
+     <img src="images/twit.png" alt="Twitter" width="30" height="30" style="display: block;" border="0" />
+    </a>
+   </td>
+   <td style="font-size: 0; line-height: 0;" width="20">&nbsp;</td>
+   <td>
+    <a href="#">
+     <img src="images/fb1.png" alt="Facebook" width="30" height="30" style="display: block;" border="0" />
+    </a>
+   </td>
+  </tr>
+ </table>
+</td>
+ </tr>
+</table>
+
+        </body>
+    </html>

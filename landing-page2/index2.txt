@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+<title>Wine Landing Page</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<section class="intro">
+<div class="inner">
+<div class="content">
+<h1>Red Wine Month</h1>
+<a class="btn" href="#">View Our Selection</a>
+</div>
+</div>
+</section>
+<p> September has been a busy month for us. Thank you to
+all the customers that trusted us with the creation of their 
+wedding cakes</p>
+<p> We are still taking orders for November and December 2017.</p>
+</body>
+</html>
