@@ -76,6 +76,13 @@ padding-bottom: 2%;
 font-family: 'Merriweather', serif;
 	
 }
+
+.col-md-6 p{
+font-family: 'Merriweather', serif;
+color: black;
+}
+
+
 .container h4{
  text-align: center;
 color: red; 
