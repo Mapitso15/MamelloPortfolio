@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
 html, body{
 margin:0;
@@ -37,7 +39,7 @@ font-size:400%;
 
 .content p{
 	color: red;
-	font-family:serif;
+	font-family: 'Roboto Mono', monospace;
 	
 }
 .container{
@@ -51,20 +53,19 @@ padding-bottom: 2%;
 	
 }
 
-.container h3{
+.container h4{
  text-align: center;
 color: red; 
 padding-top: 3%;
 padding-bottom: 2%;
+font-family: 'Merriweather', serif;
 	
 }
 .col-md-4{
 	border-right: solid 2px red;
 }
 
-.col-md-6{
-	border-right: solid 2px red;
-}
+
 hr.new {
 	
   border-top: 1px dashed red;
