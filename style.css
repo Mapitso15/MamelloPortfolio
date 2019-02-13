@@ -54,6 +54,15 @@ font-family: 'Merriweather', serif;
 	
 }
 
+.col-md-6 h1{
+text-align: center;
+color: red; 
+padding-top: 3%;
+padding-bottom: 2%;
+font-family: 'Merriweather', serif;
+	
+}
+
 .container h4{
  text-align: center;
 color: red; 
