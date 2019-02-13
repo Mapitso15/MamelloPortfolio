@@ -84,6 +84,10 @@ font-family: 'Merriweather', serif;
 	border-right: solid 2px red;
 }
 
+ul {
+	color: red;
+	font-family: 'Roboto Mono', monospace;
+}
 
 hr.new {
 	
